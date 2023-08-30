@@ -5,24 +5,23 @@ https://ottrb12.republicworld.com/httppush/ottrb_republic_hindi/chunklist_4.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE NEWS " tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png" group-title="NEWS",ZEE NEWS 
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE NEWS " tvg-logo="http://mma.prnewswire.com/media/621841/Zee_Uttar_Pradesh_Logo.jpg?w=500" group-title="NEWS",ZEE NEWS UP/UK
-https://duw35ict5q7th.cloudfront.net/index_3.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE NEWS " tvg-logo="https://pbs.twimg.com/profile_images/1486988618329903107/KfoeGsNa_400x400.jpg" group-title="NEWS",News 18 UP/UK
-https://nw18live.cdn.jio.com/bpk-tv/News18_UP_Uttarakhand_NW18_MOB/output01/News18_UP_Uttarakhand_NW18_MOB-audio_131634_eng=131600-video=3110800.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AAJ TAK HD " tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png" group-title="NEWS",AAJ TAK HD 
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_720p/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/gnttv-logo.png" group-title="NEWS",Good News Today
-https://tezlive-amd.akamaized.net/hls/live/2016145/gnt/gntlive/live_720p/chunks.m3u8
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE BIHAR ZHARKHAND " tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_Navbharat.png" group-title="NEWS",Times Now Navbhart 
+https://dvvvc0h9v3hoz.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="INDIA TV " tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/India_TV.png" group-title="NEWS",INDIA TV 
+https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="APB NEWS " tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="NEWS",APB NEWS 
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master_720p.m3u8
 #EXTINF:-1 tvg-id="ABPGanga.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ABP_Ganga.svg/512px-ABP_Ganga.svg.png" group-title="NEWS",ABP Ganga
 https://abplivetv.akamaized.net/hls/live/2043013/ganga/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="INDIA TV " tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/India_TV.png" group-title="NEWS",INDIA TV 
-https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8
+#EXTINF:-1 tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/gnttv-logo.png" group-title="NEWS",Good News Today
+https://tezlive-amd.akamaized.net/hls/live/2016145/gnt/gntlive/live_720p/chunks.m3u8
+
+
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NEWS 18  HINDI" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" group-title="NEWS",NEWS 18  HINDI
 https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_NW18_MOB-audio_131636_eng=131600-video=3110800.m3u8
 
@@ -108,8 +107,7 @@ https://d179muqh6u5263.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ET NOW " tvg-logo="https://cdni.autocarindia.com/utils/imageresizer.ashx?n=http://img.haymarketsac.in/campaignindia/campaign-india/content/20211001070916_Untitled%20design%20(4).png&w=800&h=520&q=70&c=1" group-title="NEWS",ET Now Swadesh
 https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE BIHAR ZHARKHAND " tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_Navbharat.png" group-title="NEWS",Times Now Navbhart 
-https://dvvvc0h9v3hoz.cloudfront.net/master.m3u8
+
 
 
 
