@@ -17,6 +17,16 @@ https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/ind
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master_720p.m3u8
 #EXTINF:-1 tvg-id="ABPGanga.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ABP_Ganga.svg/512px-ABP_Ganga.svg.png" group-title="News Channels",ABP Ganga
 https://abplivetv.akamaized.net/hls/live/2043013/ganga/master.m3u8
+
+#EXTINF:-1 tvg-country="IN" tvg-logo="https://i.imgur.com/80vwZaO.png" group-title="News Channels",NDTV India
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="IN" tvg-logo="" group-title="News Channels",NDTV
+https://ndtvindiaelemarchana.akamaized.net//hls//live//2003679//ndtvindia//ndtvindiamaster.m3u8?checkedby:iptvcat.com
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/gnttv-logo.png" group-title="News Channels",Good News Today
 https://tezlive-amd.akamaized.net/hls/live/2016145/gnt/gntlive/live_720p/chunks.m3u8
 
