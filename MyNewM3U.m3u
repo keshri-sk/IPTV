@@ -132,6 +132,8 @@ https://feeds.intoday.in/hltapps/api/master.m3u8
 https://d3vmwjy7v49lo5.cloudfront.net/index_4.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WION" tvg-logo="https://static7.tgstat.ru/channels/_0/d8/d8d5348d49c1f3ceba2d78766d48d036.jpg" group-title="News Channels",WION NEWS
 http://faucontv.live:8080/vaya/2kTxdjWYfn/14911
+#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/05S3yYZ.png" group-title="News Channels",CNN International
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Jazeera English " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News Channels",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CGTN " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png" group-title="News Channels",CGTN 
@@ -140,13 +142,16 @@ https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RT News " tvg-logo="https://i.imgur.com/tyXIHlj.png" group-title="News Channels",RT News 
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 tvg-id="ReutersTV.us" tvg-logo="https://i.imgur.com/6eQ2nCJ.png" group-title="News Channels",Reuters
+https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Unicef" tvg-logo="https://i.imgur.com/lPyJhBN.png" group-title="News Channels",Unicef
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="News Channels",NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
 
-
+#EXTINF:-1 tvg-id="JustforLaughsGags.us" tvg-logo="https://i.imgur.com/HjVEVMJ.png" group-title="Comedy",Just for Laughs Gags
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziojustforlaughsgags/CDN/playlist.m3u8
 
 
 
