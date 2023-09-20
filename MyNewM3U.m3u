@@ -215,9 +215,9 @@ https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 https://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionTVPG16.fr" tvg-logo="https://i.imgur.com/GFTAN5Q.png" group-title="Fashion",Fashion TV PG16
 https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/media.m3u8
-#EXTINF:-1 tvg-id="FashionTelevision.uk" tvg-logo="https://i.imgur.com/b4KYkyd.png" group-title="Music Channels",Fashion TV
+#EXTINF:-1 tvg-id="FashionTelevision.uk" tvg-logo="https://i.imgur.com/b4KYkyd.png" group-title="Fashion",Fashion TV
 https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="Glamour.us" tvg-logo="https://i.imgur.com/W8RJdsZ.png" group-title="Fashion",Glamour (720p)
+#EXTINF:-1 tvg-id="Glamour.us" tvg-logo="https://i.imgur.com/W8RJdsZ.png" group-title="Fashion",Glamour
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglamour/CDN/playlist.m3u8
 
 
@@ -264,7 +264,8 @@ http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/16958
 https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVActionMoviesUK.uk" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="Movies Channels",Rakuten Action Movies
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
-
+#EXTINF:-1 tvg-name="IN | ZEE ACTION"tvg-id="zeeaction.in"tvg-logo="https://static.epg.best/in/ZeeAction.in.png"group-title="Movies Channels",IN | ZEE ACTION
+http://xtv.ooo:8080/55667788/88776655/66191
 
 
 
@@ -376,24 +377,34 @@ http://selfme55protect.space/play/link/c5e364ea-23a0-4074-be15-593795bcae95/eyJp
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD National HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_auto,q_auto/resources/0-9-250/list/1170x658withlogo436360213.jpg" group-title="Entertainment Channels",DD National HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ddnational/default/ddnational-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Entertainment Channels", ZEE TV
-http://faucontv.live:8080/vaya/2kTxdjWYfn/14942
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6892a0ecf005c94f596ff86d2956689e.png" group-title="Entertainment Channels", & TV
-http://iptvtree.net:8080/myhdosama/cjydA4ncmMqx55pf/16964
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3b706945ff908d5911a0be1eafffb46f.png" group-title="Entertainment Channels", Colors
-http://faucontv.live:8080/vaya/2kTxdjWYfn/14521
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/57698714035590a5681e1ddf715be5f9.png" group-title="Entertainment Channels", Colors Rishtey
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Rishtey_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Utsav" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-utsav-logo.jpg" group-title="Entertainment Channels", Star Utsav
-http://s1.pubnow.info:8080/aya3/samir112233/426838
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/7fbcc6b2ef6f2a7b6879fd5c4f1fea93.png" group-title="Entertainment Channels", Star Bharat
-http://faucontv.live:8080/vaya/2kTxdjWYfn/14828
-#EXTINF:-1 tvg-logo="https://b4uplus.com/images/logo.png" group-title="Entertainment Channels", B4U Plus
-http://faucontv.live:8080/vaya/2kTxdjWYfn/14494
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Umang" tvg-logo="https://shemarooumang.com/assets/images/shemaroo-umang.png" group-title="Entertainment Channels",Umang
-https://livectv.phando.com/8077/chunklist0.m3u8
-
+#EXTINF:-1 tvg-name="IN | &Tv"tvg-id="andtvhd.in"tvg-logo="https://static.epg.best/in/AndTV.in.png"group-title="Entertainment Channels",&Tv
+http://xtv.ooo:8080/55667788/88776655/221253
+#EXTINF:-1 tvg-name="IN | Colors"tvg-id="colorshd.in"tvg-logo="https://static.epg.best/gb/Colors.uk.png"group-title="Entertainment Channels",Colors
+http://xtv.ooo:8080/55667788/88776655/221254
+#EXTINF:-1 tvg-name="IN | Colors Rishtey"tvg-id="colorsrishtey.in"tvg-logo="https://static.epg.best/in/ColorsRishtey.in.png"group-title="Entertainment Channels",Colors Rishtey
+http://xtv.ooo:8080/55667788/88776655/66188
+#EXTINF:-1 tvg-name="IN | MINEPLEX HD*"tvg-id=""tvg-logo="https://static.epg.best/in/Miniplex.in.png"group-title="Entertainment Channels",MINEPLEX HD*
+http://xtv.ooo:8080/55667788/88776655/66194
+#EXTINF:-1 tvg-name="IN | Sony Max"tvg-id="sonymaxhd.in"tvg-logo="https://static.epg.best/in/SonyMax.in.png"group-title="Entertainment Channels",Sony Max
+http://xtv.ooo:8080/55667788/88776655/221259
+#EXTINF:-1 tvg-name="IN | Sony Pal*"tvg-id="sonypal.in"tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png"group-title="Entertainment Channels",Sony Pal*
+http://xtv.ooo:8080/55667788/88776655/104192
+#EXTINF:-1 tvg-name="IN | Sony Sab"tvg-id="sonysabhd.in"tvg-logo="https://static.epg.best/in/SonySAB.in.png"group-title="Entertainment Channels",Sony Sab
+http://xtv.ooo:8080/55667788/88776655/221256
+#EXTINF:-1 tvg-name="IN | Sony SET"tvg-id="sonyhd.in"tvg-logo="https://static.epg.best/gb/SonyEntertainmentAsia.uk.png"group-title="Entertainment Channels",Sony SET
+http://xtv.ooo:8080/55667788/88776655/221251
+#EXTINF:-1 tvg-name="IN | Sony Wah"tvg-id="sonywah.in"tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png"group-title="Entertainment Channels",Sony Wah
+http://xtv.ooo:8080/55667788/88776655/112979
+#EXTINF:-1 tvg-name="IN | Star Bharat"tvg-id="starbharathd.in"tvg-logo="https://static.epg.best/in/StarBharat.in.png"group-title="Entertainment Channels",Star Bharat
+http://xtv.ooo:8080/55667788/88776655/221255
+#EXTINF:-1 tvg-name="IN | Star Gold"tvg-id="stargoldhd.in"tvg-logo="https://static.epg.best/in/StarGold.in.png"group-title="Entertainment Channels",Star Gold
+http://xtv.ooo:8080/55667788/88776655/221258
+#EXTINF:-1 tvg-name="IN | Star Plus"tvg-id="starplushd.in"tvg-logo="https://static.epg.best/nz/StarPlusHindi.nz.png"group-title="Entertainment Channels",Star Plus
+http://xtv.ooo:8080/55667788/88776655/221252
+#EXTINF:-1 tvg-name="IN | Zee TV"tvg-id="zeetvhd.in"tvg-logo="https://static.epg.best/sg/ZeeTV.sg.png"group-title="Entertainment Channels",Zee TV
+http://xtv.ooo:8080/55667788/88776655/221250
+#EXTINF:-1 tvg-name="IN: STAR UTSAV"tvg-id=""tvg-logo="https://img.indiaforums.com/channel/320x180/0/006-star-utsav.jpg"group-title="Entertainment Channels", STAR UTSAV
+http://xtv.ooo:8080/55667788/88776655/112977
 
 
 
