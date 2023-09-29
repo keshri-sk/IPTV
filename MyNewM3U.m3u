@@ -389,7 +389,7 @@ http://xtv.ooo:8080/55667788/88776655/66194
 http://iptv-plus.net:25461/live/simon/Qjgf347DFkj138bsgfnsmMVN34jDFG/96327.m3u8
 #EXTINF:-1 tvg-name="IN | Sony Max"tvg-id="sonymaxhd.in"tvg-logo="https://static.epg.best/in/SonyMax.in.png"group-title="Entertainment Channels",Sony Max
 http://xtv.ooo:8080/55667788/88776655/221259
-#EXTINF:-1 tvg-name="IN | Sony Pal*"tvg-id="sonypal.in"tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png"group-title="Entertainment Channels",Sony Pal*
+#EXTINF:-1 tvg-name="IN | Sony Pal*"tvg-id="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png"group-title="Entertainment Channels",Sony Pal
 http://xtv.ooo:8080/55667788/88776655/104192
 #EXTINF:-1 tvg-name="IN | Sony Sab"tvg-id="sonysabhd.in"tvg-logo="https://static.epg.best/in/SonySAB.in.png"group-title="Entertainment Channels",Sony Sab
 http://xtv.ooo:8080/55667788/88776655/221256
