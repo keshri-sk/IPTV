@@ -387,9 +387,9 @@ http://xtv.ooo:8080/55667788/88776655/66188
 http://xtv.ooo:8080/55667788/88776655/66194
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: FOOD FOOD HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/Food_Food_IN.png" group-title="Entertainment Channels",: FOOD FOOD HD
 http://iptv-plus.net:25461/live/simon/Qjgf347DFkj138bsgfnsmMVN34jDFG/96327.m3u8
-#EXTINF:-1 tvg-name="IN | Sony Max"tvg-id="sonymaxhd.in"tvg-logo="https://static.epg.best/in/SonyMax.in.png"group-title="Entertainment Channels",Sony Max
+#EXTINF:-1 tvg-name="IN | Sony Max"tvg-id="sonymaxhd.in"tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="Entertainment Channels",Sony Max
 http://xtv.ooo:8080/55667788/88776655/221259
-#EXTINF:-1 tvg-name="IN | Sony Pal*"tvg-id="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png"group-title="Entertainment Channels",Sony Pal
+#EXTINF:-1 tvg-name="IN | Sony Pal*"tvg-id="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Entertainment Channels",Sony Pal
 http://xtv.ooo:8080/55667788/88776655/104192
 #EXTINF:-1 tvg-name="IN | Sony Sab"tvg-id="sonysabhd.in"tvg-logo="https://static.epg.best/in/SonySAB.in.png"group-title="Entertainment Channels",Sony Sab
 http://xtv.ooo:8080/55667788/88776655/221256
