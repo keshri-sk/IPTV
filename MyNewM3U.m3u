@@ -385,6 +385,8 @@ http://xtv.ooo:8080/55667788/88776655/221254
 http://xtv.ooo:8080/55667788/88776655/66188
 #EXTINF:-1 tvg-name="IN | MINEPLEX HD*"tvg-id=""tvg-logo="https://static.epg.best/in/Miniplex.in.png"group-title="Entertainment Channels",MINEPLEX HD*
 http://xtv.ooo:8080/55667788/88776655/66194
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: FOOD FOOD HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/Food_Food_IN.png" group-title="Entertainment Channels",: FOOD FOOD HD
+http://iptv-plus.net:25461/live/simon/Qjgf347DFkj138bsgfnsmMVN34jDFG/96327.m3u8
 #EXTINF:-1 tvg-name="IN | Sony Max"tvg-id="sonymaxhd.in"tvg-logo="https://static.epg.best/in/SonyMax.in.png"group-title="Entertainment Channels",Sony Max
 http://xtv.ooo:8080/55667788/88776655/221259
 #EXTINF:-1 tvg-name="IN | Sony Pal*"tvg-id="sonypal.in"tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png"group-title="Entertainment Channels",Sony Pal*
