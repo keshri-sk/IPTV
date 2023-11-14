@@ -360,7 +360,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/599375885ceaac3cab
 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsiklzK-54g5nqQhcV7T_-o6Dscrk7x5Ab5PZZSa0&usqp=CAE&s" group-title="Sports Channels",Willow Cricket HD
+http://ghost1.tv:80/162CBD932E2C/61deba24e4ffd/45854
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Turbo Sports HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports.png" group-title="Sports Channels",Turbo Sports HD
 https://9dc1.short.gy/Euro_Sports.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD Sports" tvg-logo="https://phando002.s.llnwi.net/?image_url=https://solid-cdn.b-cdn.net/images/6/movies/posters/poster_1664271741.jpg&height=120&width=300&service=resize&quality=100" group-title="Sports Channels",DD Sports
@@ -6134,16 +6135,4 @@ http://vodlb1.zaintv.net:80/meDia/MoVies/HindiMov/Dub/Dudes.Dragons.2015.720p.Du
 #EXTINF:-1 tvg-name="Holiday Monday (2021)"tvg-id=""tvg-logo="http://tv.zaintv.net:80/images/pLZyee57vi7892ENAklLlE7EpNU_big.jpg"group-title="Hindi Dubbed Movies",Holiday Monday (2021)
 http://vodlb1.zaintv.net:80/meDia/MoVies/HindiMov/Dub/Holiday.Monday.2021.Dual.Audio.Hindi.ORG.1080p.mkv
 #EXTINF:-1 tvg-name="The Runner (2022)"tvg-id=""tvg-logo="http://tv.zaintv.net:80/images/bQWHN1vHGhLJSKeHoPUXRqxbCOr_big.jpg"group-title="Hindi Dubbed Movies",The Runner (2022)
-http://vodlb1.zaintv.net:80/meDia/MoVies/HindiMov/Dub/The.Runner.2022.720p.WEBDL.English.mkv
-#EXTINF:-1 tvg-name="Blessed (2004)"tvg-id=""tvg-logo="http://tv.zaintv.net:80/images/lQIQzonaUBSb5VG90Eq4VGfN4Dv_big.jpg"group-title="Hindi Dubbed Movies",Blessed (2004)
-http://vodlb1.zaintv.net:80/meDia/MoVies/HindiMov/Dub/Blessed.2004.Dual.Audio.Hindi.ORG.720p.mkv
-#EXTINF:-1 tvg-name="Ninja (2009)"tvg-id=""tvg-logo="http://tv.zaintv.net:80/images/tKjH1IQVeUmHOlxZinQdjFHkFVG_big.jpg"group-title="Hindi Dubbed Movies",Ninja (2009)
-http://vodlb1.zaintv.net:80/meDia/MoVies/HindiMov/Dub/Ninja.2009.BluRay.Hindi.English.1080p.ESub.mkv
-#EXTINF:-1 tvg-name="Deliver Us from Evil (2016)"tvg-id=""tvg-logo="http://tv.zaintv.net:80/images/Uz32ERsyCmGwV8Eg2wmT2ooWpo_big.jpg"group-title="Hindi Dubbed Movies",Deliver Us from Evil (2016)
-http://vodlb1.zaintv.net:80/meDia/MoVies/HindiMov/Dub/Deliver.Us.from.Evil.2016.1080p.BluRay.x265.10bit.Dual.Audio.Hindi.English.ESubs.mkv
-#EXTINF:-1 tvg-name="Gatecrash (2020)[MultiAudio]"tvg-id=""tvg-logo="http://tv.zaintv.net:80/images/Asjn8zcQDfsu8Cky9VDaMcUauja_big.jpg"group-title="Hindi Dubbed Movies",Gatecrash (2020)[MultiAudio]
-http://vodlb1.zaintv.net:80/meDia/MoVies/HindiMov/Dub/Gatecrash.2020.HQ.HDRip.1080p.Org.Auds.Tam.Tel.Hin.Eng.mkv
-#EXTINF:-1 tvg-name="Don't Knock Twice (2022)[MultiAudio]"tvg-id=""tvg-logo="http://tv.zaintv.net:80/images/rxiz9zHLrqC5JfKVPbkKBboiSzI_big.jpg"group-title="Hindi Dubbed Movies",Don't Knock Twice (2022)[MultiAudio]
-http://vodlb1.zaintv.net:80/meDia/MoVies/HindiMov/Dub/Dont.Knock.Twice.2016.BluRay.1080p.Org.Auds.Tam.Tel.Hin.Eng.mkv
-#EXTINF:-1 tvg-name="Between Worlds (2018)[MultiAudio]"tvg-id=""tvg-logo="http://tv.zaintv.net:80/images/7V25KUnWkf0NP7wtGkbmPjEfYf9_big.jpg"group-title="Hindi Dubbed Movies",Between Worlds (2018)[MultiAudio]
-http://vodlb1.zaintv.net:80/meDia/MoVies/HindiMov/Dub/Between.W
+http://vodlb1.zaintv.net:80/meDia/MoVies/HindiMov/Dub/The.Runner.2022
