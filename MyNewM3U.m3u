@@ -9,7 +9,7 @@ https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AAJ TAK HD " tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png" group-title="News Channels",AAJ TAK HD 
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE BIHAR ZHARKHAND " tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_Navbharat.png" group-title="News Channels",Times Now Navbhart 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Times Now Navbharat " tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_Navbharat.png" group-title="News Channels",Times Now Navbharat 
 https://dvvvc0h9v3hoz.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="INDIA TV " tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/India_TV.png" group-title="News Channels",INDIA TV 
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8
