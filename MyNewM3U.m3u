@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="",DD
-https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCKwucPzHZ7zCUIf7If-Wo1g/live
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=" ZEE BHARAT " tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_SANGAM.png" group-title="News Channels",ZEE BHARAT 
 https://d1hp2yai3k4ork.cloudfront.net/index_4.m3u8
 
